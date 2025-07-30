@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #310309;
+  background-image: url(./images/bg.jpeg);
 }
 h1 {
   font-size: 5rem;
