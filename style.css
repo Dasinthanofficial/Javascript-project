@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #310309;
+}
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 3px 0 #DA0463;
+
+}
+.drum {
+  outline: none;
+  border: 10px solid #095a7a;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.a{
+    background-image: url(./images/guiter.jpg);
+    background-size: cover;
+}
+.b{
+    background-image: url(./images/keyboard.jpg);
+    background-size: cover;
+}
+.c{
+    background-image: url(./images/piano.jpg);
+    background-size: cover;
+}
